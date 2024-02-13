@@ -4,7 +4,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/car_rental
+    url: jdbc:mysql://bookMyCarDb:3306/car_rental
     username: root
     password: root@123
     driver-class-name: com.mysql.jdbc.Driver
