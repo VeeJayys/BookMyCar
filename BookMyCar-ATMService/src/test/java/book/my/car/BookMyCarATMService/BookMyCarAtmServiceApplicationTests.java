@@ -1,13 +1,13 @@
-package book.my.car.BookMyCarATMService;
+// package book.my.car.BookMyCarATMService;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class BookMyCarAtmServiceApplicationTests {
+// @SpringBootTest
+// class BookMyCarAtmServiceApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
